@@ -1,0 +1,23 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+   
+    
+}
+
+li :visited{
+    color: lightgreen;
+}
+
+li a:hover{
+    color: red;
+}
+
+li{
+    list-style-type: none;
+    text-align: center;
+}
+
+.favouritesites {
+     margin: 20px;
+}

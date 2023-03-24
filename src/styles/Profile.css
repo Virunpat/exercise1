@@ -1,0 +1,16 @@
+.profile{
+    
+   width: 40%;
+   margin: 20px;
+   padding: 20px;
+   transition: border 1s;
+}  
+
+.profile:hover h2{
+    color: red;
+
+}
+.profile:hover {
+    border: 1px red solid;
+
+}
